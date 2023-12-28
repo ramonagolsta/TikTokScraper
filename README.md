@@ -9,7 +9,6 @@ TikTok Scraper which gets data about TikToker's main page link, number of follow
 - Open code editor (for example, PHPStorm, VSC)
 - Install node.js (v20)
 - Run node install to get the required dependencies (puppeteer, csv-writer)
-- 
 # Usage
 - Run the sricpt using node main.js
 
