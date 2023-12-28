@@ -2,11 +2,14 @@
 TikTok Scraper which gets data about TikToker's main page link, number of followers, number of likes, and video views!
 
 # Screenshot
-![TikTokScraperData - output-1](https://github.com/ramonagolsta/TikTokScraper/assets/138066563/42fe8237-4195-4e85-a25c-f92f126ce4ee)
+<img width="813" alt="Screenshot 2023-12-28 140559" src="https://github.com/ramonagolsta/TikTokScraper/assets/138066563/7da1ce68-359b-42d4-8766-515e851b5a25">
+
 
 # Setup
-- [Install PHP and node.js]
-- [ Run node install to get the required dependencies]
+- Open code editor (for example, PHPStorm, VSC)
+- Install node.js (v20)
+- Run node install to get the required dependencies (puppeteer, csv-writer)
+- 
 # Usage
-- [Run the sricpt using php index.php]
+- Run the sricpt using node main.js
 
